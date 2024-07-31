@@ -1,4 +1,27 @@
-/* Your code here */
+#page-title {
+    font-weight: bold;
+}
+
+.pagenum {
+    position: absolute;
+    right: 10px;
+    font-size: small;
+}
+
+p {
+    text-align: justify;
+    line-height: .75em;
+    margin: auto 100px;
+}
+
+pre {
+    width: fit-content;
+    margin: auto;
+}
+
+.td2 {
+     text-decoration: none;
+}
 
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
