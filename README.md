@@ -175,3 +175,4 @@ You practiced multiple ways to adjust HTML elements using CSS selectors
 [fit-content-doc]: https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content
 [margin-auto-doc]: https://developer.mozilla.org/en-US/docs/Web/CSS/margin#values
 [child combinator selectors]: https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator
+# waa07-css-selector
